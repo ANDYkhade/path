@@ -3,4 +3,4 @@
  CLICK ON BELLOW LINK
 
 
-https://aniketalgovisulizer.netlify.app/
+https://avisulizer.netlify.app/
